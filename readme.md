@@ -1,9 +1,10 @@
 # 用于大创项目
 ## 子目录文件夹: 
-* StudyNotes学习笔记
-  * xxx
+* StudyNotes学习笔记  --***不论是每次都开一个文件写笔记，还是多次在一个文件里写笔记，一定要注明时间***
+  * xxx  
+    20200306..md
   * yyy
   * zzz
   * vvv
   * uuu
-  * problem文件
+  * problem文件  
